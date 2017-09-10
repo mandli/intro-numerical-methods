@@ -24,7 +24,7 @@ notebooks = ["00_intro_numerical_methods.ipynb",
              "07_differentiation.ipynb",
              "08_quadrature.ipynb",
              "09_ODE_ivp_part2.ipynb",
-             "09_ODE_ivp_part1.ipynb"
+             "09_ODE_ivp_part1.ipynb",
              "10_LA_intro.ipynb",
              "11_LA_QR.ipynb",
              "12_LA_conditioning_stability.ipynb",
