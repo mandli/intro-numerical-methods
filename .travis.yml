@@ -7,8 +7,8 @@ python:
 
 before_install:
   - sudo apt-get update -qq
-  - git clone --branch=master --depth=100 --quiet git://github.com/mandli/intro-numerical-methods
-  - git checkout master
+  # - git clone --branch=master --depth=100 --quiet git://github.com/mandli/intro-numerical-methods
+  # - git checkout master
 
 install: 
   - pip install -U pip setuptools # Travis breaks without this
